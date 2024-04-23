@@ -11,9 +11,6 @@ public partial class vResumen : ContentPage
 		fecha.Text = fecha1;
 		pais.Text = pais1;
 		lblciudad.Text = ciudad1;
-		
-
-
 
 	}
 }
